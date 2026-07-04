@@ -2,3 +2,5 @@ connectionString.txt
 *.class
 .idea
 target/
+__pycache__/
+*.pyc
